@@ -5,4 +5,3 @@
 + 🔭 If you have any suggestions about the projects, you can push-request.
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AetherDes&theme=ayu_mirage)
